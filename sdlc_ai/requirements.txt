@@ -1,0 +1,9 @@
+agno
+python-dotenv
+faiss-cpu
+pandas
+numpy
+groq
+openai
+duckduckgo-search
+pygithub
